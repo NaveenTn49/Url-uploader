@@ -2,15 +2,10 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot Created by the <b>team Closeup! </b>
-Our dream is to help achieve the ordinary telegram users to get benefit of the telegram'service
-Join our support group for any Doubts and complaints 
+This is a Telegram URL Upload Bot Created by the <b>Naveen Tn49! </b>
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
-/help for more details..
-
-Support Group : @cpbotssupport
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
@@ -23,7 +18,6 @@ Support Group : @cpbotssupport
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Support Group : @cpbotssupport
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
